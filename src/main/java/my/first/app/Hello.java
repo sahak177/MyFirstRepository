@@ -1,5 +1,5 @@
 package my.first.app;
 
 public class Hello {
-    //something in hello class for change
+    //something in hello class already changed
 }
